@@ -2,7 +2,7 @@
   "name": "unplugin-import-external-cdn",
   "type": "module",
   "version": "0.0.1",
-  "packageManager": "pnpm@10.32.1",
+  "packageManager": "pnpm@10.33.0",
   "license": "MIT",
   "homepage": "https://github.com/YieldRay/unplugin-import-external-cdn#readme",
   "repository": {
@@ -70,22 +70,22 @@
     "unplugin-utils": "^0.3.1"
   },
   "devDependencies": {
-    "@rspack/core": "^1.7.8",
-    "@sxzz/eslint-config": "^7.8.3",
+    "@rspack/core": "^1.7.11",
+    "@sxzz/eslint-config": "^7.8.4",
     "@sxzz/prettier-config": "^2.3.1",
-    "@types/node": "^25.5.0",
-    "bumpp": "^10.4.1",
-    "esbuild": "^0.27.4",
-    "eslint": "^9.39.4",
-    "prettier": "^3.8.1",
-    "rolldown": "^1.0.0-rc.9",
-    "rollup": "^4.59.0",
-    "tsdown": "^0.19.0",
-    "tsdown-preset-sxzz": "^0.2.0",
+    "@types/node": "^25.6.0",
+    "bumpp": "^11.0.1",
+    "esbuild": "^0.28.0",
+    "eslint": "^10.2.0",
+    "prettier": "^3.8.2",
+    "rolldown": "^1.0.0-rc.15",
+    "rollup": "^4.60.1",
+    "tsdown": "^0.21.7",
+    "tsdown-preset-sxzz": "^0.5.0",
     "typescript": "^5.9.3",
-    "vite": "^7.3.1",
-    "vitest": "^4.1.0",
-    "webpack": "^5.105.4"
+    "vite": "^7.3.2",
+    "vitest": "^4.1.4",
+    "webpack": "^5.106.1"
   },
   "prettier": "@sxzz/prettier-config"
 }

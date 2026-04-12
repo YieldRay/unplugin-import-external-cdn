@@ -16,7 +16,7 @@ exports[`rollup 1`] = `
 "
 `;
 
-exports[`rspack 1`] = `"var r={},e={};function t(o){var n=e[o];if(void 0!==n)return n.exports;var p=e[o]={exports:{}};return r[o](p,p.exports,t),p.exports}t.rv=()=>"1.7.8",t.ruid="bundler=rspack@1.7.8";"`;
+exports[`rspack 1`] = `"var r={},e={};function t(o){var n=e[o];if(void 0!==n)return n.exports;var p=e[o]={exports:{}};return r[o](p,p.exports,t),p.exports}t.rv=()=>"1.7.11",t.ruid="bundler=rspack@1.7.11";"`;
 
 exports[`vite 1`] = `
 "import 'https://esm.sh/unplugin@2.3.11?target=esnext';
